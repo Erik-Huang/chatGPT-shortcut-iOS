@@ -3,7 +3,7 @@ Access ChatGPT (GPT-3.5-turbo API) with shortcut or Siri voice input on any iOS 
 This shortcut will always display the full conversation and save a copy of chat history in local storage (only the latest one).
 
 # iCloud Link to the shortcut
-https://www.icloud.com/shortcuts/37b8e21aa4b944ec94a5ec0363e784d5
+https://www.icloud.com/shortcuts/20caed48857448cc84a426eaea27e375
 
 # Install & Usage
 Once you obtain the shortcut from the link, tap on the three-dot icon. If you tap on the name "GPT" at top-center, you can rename it. Siri access would be "Hey Siri, <shortcut_name>", which is "Hey Siri, GPT" by default. Alternatively, you can use the share button at the bottom and add it to home screen. 
